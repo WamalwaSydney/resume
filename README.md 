@@ -1,0 +1,77 @@
+Sydney Wamalwa - Personal Resume Website
+
+Welcome to my personal resume website! This project showcases my skills, experience, education, and projects in a clean, responsive, and interactive format. It is built using **HTML**, **CSS**, and **JavaScript**, and is designed to be mobile-friendly and easy to navigate.
+
+Live Demo
+
+You can view the live version of this website here:  
+[Live Demo on GitHub Pages](https://wamalwasydney.github.io/resume)
+
+Features
+
+- Responsive Design**: The website adapts seamlessly to desktop, tablet, and mobile screens.
+- Interactive Elements**: Includes a responsive navbar, hover effects, and a contact form with validation.
+- Professional Layout**: Clean and modern design with clear sections for About, Experience, Education, Projects, and Contact.
+- Custom CSS**: Styled without using any frameworks like Bootstrap.
+- Deployed on GitHub Pages**: Easily accessible and shareable.
+
+Technologies Used
+
+- **HTML5**: For structuring the content.
+- **CSS3**: For styling and responsiveness.
+- **JavaScript**: For interactivity (e.g., form validation).
+- **Git & GitHub**: For version control and deployment.
+
+Project Structure
+resume/
+├── index.html # Main HTML file
+├── styles.css # Custom CSS file
+├── script.js # JavaScript file for interactivity
+├── assets/ # Folder for images and icons
+│ ├── profile.jpg # Profile picture
+│ ├── project1.png # Project screenshots
+│ └── project2.png
+└── README.md # This file
+
+
+How to Run Locally
+
+1. **Clone the Repository**:
+   ```bash
+   git clone https://github.com/WamalwaSydney/resume.git
+   cd resume
+
+    Open the Project:
+
+        Open the index.html file in your browser to view the website.
+
+    Modify the Content:
+
+        Edit the index.html, styles.css, and script.js files to customize the website for your own use.
+
+Deployment
+
+This project is deployed using GitHub Pages. To deploy your own version:
+
+    Fork this repository.
+
+    Go to your repository settings and enable GitHub Pages.
+
+    Select the main branch as the source.
+
+    Your site will be live at https://<username>.github.io/resume.
+
+License
+
+This project is open-source and available under the MIT License. Feel free to use, modify, and distribute it as needed.
+Contact
+
+If you have any questions or feedback, feel free to reach out:
+
+    Email: sydneywamalwa@gmail.com
+
+    LinkedIn: Sydney Wamalwa
+
+    GitHub: WamalwaSydney
+
+Thank you for visiting my resume website! I hope you find it informative and inspiring. 
